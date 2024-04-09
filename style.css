@@ -1,0 +1,10 @@
+p {
+    color: blue;
+    text-align: center;
+  }
+body {
+    margin: 15%;
+    width: 70%;
+    justify-content: center;
+    border-style:solid;
+}
